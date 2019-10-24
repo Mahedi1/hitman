@@ -5,6 +5,7 @@ body{
 	letter-spacing: 1px;
 	background: url(wade-meng-381499-unsplash.jpg);
 	background-size: cover;
+	background-repeat: no-repeat;
 }
 #avatar {
 	height: 50%;
