@@ -6,6 +6,8 @@ body{
 	background: url(wade-meng-381499-unsplash.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
+	background-attachment:fixed;
+	background-position: center center;
 }
 #avatar {
 	height: 50%;
